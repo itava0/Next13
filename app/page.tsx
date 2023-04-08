@@ -5,10 +5,9 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     <>
-    <main className={inter.className}>
-      <h1>Hello World!</h1>
-    <Link href="/about">About Page</Link>
-    </main>
+      <main className={inter.className}>
+
+      </main>
     </>
   )
 }
